@@ -6,8 +6,8 @@ Un sistema de gestión básico **CRUD** (Create, Read, Update, Delete) desarroll
 
 ## 🛠️ Tecnologías Utilizadas
 
-- **Python 3.x**
-- **SQLite3** (Módulo nativo de Python)
+- **[Python 3.x](https://www.python.org/)**
+- **[SQLite3](https://www.sqlite.org/)** (Módulo nativo de Python)
 
 ---
 
