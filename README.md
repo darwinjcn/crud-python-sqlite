@@ -15,15 +15,13 @@ Un sistema de gestión básico **CRUD** (Create, Read, Update, Delete) desarroll
 
 El proyecto implementa las siguientes funciones principales:
 
-
-| Operación      | Función                                 | Descripción                                            |
-| -------------- | --------------------------------------- | ------------------------------------------------------ |
-| **Crear**      | `crear_usuario(nombre, email)`          | Inserta un nuevo registro en la tabla                  |
-| **Leer**       | `obtener_registros()`                   | Devuelve la lista completa de usuarios registrados     |
-| **Leer**       | `obtener_usuario(id)`                   | Consulta los datos de un usuario específico por ID     |
+| Operación | Función | Descripción |
+|-----------|---------|-------------|
+| **Crear** | `crear_usuario(nombre, email)` | Inserta un nuevo registro en la tabla |
+| **Leer** | `obtener_registros()` | Devuelve la lista completa de usuarios registrados |
+| **Leer** | `obtener_usuario(id)` | Consulta los datos de un usuario específico por ID |
 | **Actualizar** | `actualizar_usuario(id, nombre, email)` | Modifica los datos de un usuario existente según su ID |
-| **Eliminar**   | `eliminar_usuario(id)`                  | Remueve un usuario según su ID                         |
-
+| **Eliminar** | `eliminar_usuario(id)` | Remueve un usuario según su ID |
 
 ---
 
@@ -63,12 +61,10 @@ CREATE TABLE IF NOT EXISTS usuarios (
 ## 📷 Capturas de Pantalla
 
 ### Ejecución del programa
-
-Ejecución en Consola
+<img src="https://raw.githubusercontent.com/darwinjcn/crud-python-sqlite/main/img/ejecucion.png" alt="Ejecución en Consola" width="400" style="border-radius: 8px;" />
 
 ### Estructura de la Base de Datos en SQLite
-
-Tabla Usuarios
+<img src="https://raw.githubusercontent.com/darwinjcn/crud-python-sqlite/main/img/base-de-datos.png" alt="Tabla Usuarios" width="400" style="border-radius: 8px;" />
 
 ---
 
