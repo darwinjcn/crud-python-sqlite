@@ -61,10 +61,10 @@ CREATE TABLE IF NOT EXISTS usuarios (
 ## 📷 Capturas de Pantalla
 
 ### Ejecución del programa
-<img src="https://raw.githubusercontent.com/darwinjcn/crud-python-sqlite/main/img/ejecucion.png" alt="Ejecución en Consola" width="400" style="border-radius: 8px;" />
+<img src="https://raw.githubusercontent.com/darwinjcn/crud-python-sqlite/main/img/ejecucion.png" alt="Ejecución en Consola" width="400" style="border-radius: 12px;" />
 
 ### Estructura de la Base de Datos en SQLite
-<img src="https://raw.githubusercontent.com/darwinjcn/crud-python-sqlite/main/img/base-de-datos.png" alt="Tabla Usuarios" width="400" style="border-radius: 8px;" />
+<img src="https://raw.githubusercontent.com/darwinjcn/crud-python-sqlite/main/img/base-de-datos.png" alt="Tabla Usuarios" width="400" style="border-radius: 12px;" />
 
 ---
 
